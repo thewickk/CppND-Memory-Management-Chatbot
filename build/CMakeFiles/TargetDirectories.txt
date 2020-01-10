@@ -1,0 +1,3 @@
+/home/clewis/GitHub_Repos/CppND-Memory-Management-Chatbot/build/CMakeFiles/rebuild_cache.dir
+/home/clewis/GitHub_Repos/CppND-Memory-Management-Chatbot/build/CMakeFiles/membot.dir
+/home/clewis/GitHub_Repos/CppND-Memory-Management-Chatbot/build/CMakeFiles/edit_cache.dir
